@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Masyitah</string>
+    <string-array name="labels_array">
+        <item >--Pilih--</item>
+        <item >Siang</item>
+        <item >Malam</item>
+        <item >Blended</item>
+    </string-array>
+</resources>
